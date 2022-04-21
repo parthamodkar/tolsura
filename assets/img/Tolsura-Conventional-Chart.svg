@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Donut chart</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6_About_Tolsura" transform="translate(-459.000000, -6925.000000)">
+            <g id="Donut-chart" transform="translate(459.000000, 6925.000000)">
+                <rect id="Rectangle" x="0" y="0" width="200" height="200"></rect>
+                <path d="M142.858308,165 C171.648482,146.085134 184.600255,110.539387 174.717268,77.5640507 C164.834281,44.5887144 134.459119,22 100,22" id="Donut_0" stroke="#5E7083" stroke-width="30"></path>
+                <path d="M100.090926,22 C66.7078115,22 37.017049,43.1982329 26.2098017,74.7487054 C15.4025545,106.299178 25.8695018,141.222586 52.2552708,161.650503 C78.6410399,182.078421 115.108815,183.491973 143,165.167921" id="Donut_1" stroke="#E1E8F3" stroke-width="30"></path>
+                <text id="44%" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="40" font-weight="bold" letter-spacing="-0.4823529" fill="#5E7083">
+                    <tspan x="62.4635293" y="117">44%</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="6px" viewBox="0 0 62 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Graph-line</title>
+    <defs>
+        <polygon id="path-1" points="0 0.8716 5.98196667 0.8716 5.98196667 5.9996 0 5.9996"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7_Bioavialability" transform="translate(-1159.000000, -1517.000000)">
+            <g id="Graph-line" transform="translate(1159.000000, 1517.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M2.99296667,5.9996 C1.34096667,5.9996 -0.0007,4.8536 -0.0007,3.4376 C-0.0007,2.0236 1.34096667,0.8716 2.99296667,0.8716 C4.64263333,0.8716 5.98196667,2.0236 5.98196667,3.4376 C5.98196667,4.8536 4.64263333,5.9996 2.99296667,5.9996" id="Fill-1" fill="#00B188" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M58,6 C59.6557377,6 61,4.8826053 61,3.50195008 C61,2.12324493 59.6557377,1 58,1 C56.3442623,1 55,2.12324493 55,3.50195008 C55,4.8826053 56.3442623,6 58,6" id="Fill-4" fill="#00B188"></path>
+                <path d="M33,3.5 C33,4.88173302 31.6591264,6 29.9976599,6 C28.3408736,6 27,4.88173302 27,3.5 C27,2.11826698 28.3408736,1 29.9976599,1 C31.6591264,1 33,2.11826698 33,3.5" id="Fill-6" fill="#00B188"></path>
+                <line x1="2" y1="3" x2="57" y2="3" id="Stroke-8" stroke="#00B188" stroke-width="1.672"></line>
+            </g>
+        </g>
+    </g>
+</svg>

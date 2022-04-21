@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="138px" height="260px" viewBox="0 0 138 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Patient-symptoms-graphic</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5_Infections_Overview" transform="translate(-651.000000, -12929.000000)">
+            <g id="Group-10" transform="translate(1.000000, 12619.000000)">
+                <g id="Group-2" transform="translate(564.500000, 312.000000)">
+                    <g id="Patient-symptoms-graphic" transform="translate(87.500000, 0.000000)">
+                        <path d="M91.61824,88.97592 C91.61824,88.97592 100.10144,118.23272 105.47184,133.84632 C109.49984,145.55672 124.84544,139.75112 120.81824,128.04072 C115.44784,112.42712 107.42144,82.61032 101.70784,67.11912 C95.89104,51.34872 81.47824,43.48552 67.06944,44.04312 C52.66064,43.48552 38.24784,51.34872 32.43184,67.11912 C26.71744,82.61032 18.69104,112.42712 13.32064,128.04072 C9.29344,139.75112 24.63904,145.55672 28.66784,133.84632 C34.03664,118.23272 42.52144,88.97592 42.52144,88.97592" id="Stroke-1" stroke="#8598AB" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M91.40728,88.97592 L91.40728,238.09992 C91.40728,253.57912 73.16168,253.57912 72.40568,238.09992 L67.10808,160.20472 L61.64648,238.09992 C61.81048,253.57912 42.64568,253.57912 42.64568,238.09992 L42.64568,88.97592" id="Stroke-3" stroke="#8598AB" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M86.20336,19.13408 C86.20336,29.70128 77.63696,38.26768 67.06976,38.26768 C56.50176,38.26768 47.93536,29.70128 47.93536,19.13408 C47.93536,8.56688 56.50176,0.00048 67.06976,0.00048 C77.63696,0.00048 86.20336,8.56688 86.20336,19.13408 Z" id="Stroke-5" stroke="#8598AB" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="0.00024" y1="256.08448" x2="134.13944" y2="256.08448" id="Stroke-7" stroke="#FB3449" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <circle id="Oval" fill="#FB3449" opacity="0.25" cx="67.2" cy="78.4" r="19.2"></circle>
+                        <circle id="Oval" fill="#FB3449" opacity="0.25" cx="67.6" cy="26" r="9.2"></circle>
+                        <circle id="Oval" fill="#FB3449" opacity="0.25" cx="114.4" cy="92" r="13.6"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

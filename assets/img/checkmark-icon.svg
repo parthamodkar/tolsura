@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>checkmark-icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="5_Infections_Overview" transform="translate(-744.000000, -16567.000000)" stroke="#00B188" stroke-width="1.445">
+            <g id="Group-3" transform="translate(0.000000, 16084.000000)">
+                <g id="Group-22" transform="translate(745.000000, 395.000000)">
+                    <g id="Group-19" transform="translate(0.000000, 89.000000)">
+                        <path d="M31,15.5 C31,24.0602597 24.0602597,31 15.5,31 C6.93974035,31 0,24.0602597 0,15.5 C0,6.93974035 6.93974035,0 15.5,0 C24.0602597,0 31,6.93974035 31,15.5 Z M7,15.5476222 L12.4409853,24 L23,10" id="checkmark-icon"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
